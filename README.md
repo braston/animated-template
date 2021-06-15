@@ -13,5 +13,5 @@ In this project I learned about customizing the content of an existing CSS templ
 -  Adding external script using async and defer to optimize HTML parsing. 3 Scripts set to defer to ensure HTML displays prior to download
 -  Code review regarding placement of <script> tags towards bottom, ONLY on top if critical
 
-See it live here:
+See it live here:  
 https://braston.github.io/animated-template/
